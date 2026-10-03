@@ -1,0 +1,11 @@
+ID,Name,Age,City,Email,Course,Score,Joined
+1,Soham,18,Ropar,soham@example.com,Python Basics,85,2026-07-27
+2,Ananya,20,Delhi,ananya@example.com,Data Science,90,2026-07-28
+3,Rahul,19,Mumbai,rahul@example.com,Robotics,78,2026-07-29
+4,Meera,21,Bangalore,meera@example.com,AI Fundamentals,92,2026-07-30
+5,Arjun,22,Chennai,arjun@example.com,Web Development,88,2026-07-31
+6,Kavya,20,Pune,kavya@example.com,CAD Design,81,2026-08-01
+7,Rohan,23,Kolkata,rohan@example.com,Git & Version Control,76,2026-08-02
+8,Neha,19,Hyderabad,neha@example.com,Machine Learning,95,2026-08-03
+9,Dev,21,Jaipur,dev@example.com,Arduino Robotics,83,2026-08-04
+10,Ishita,22,Ahmedabad,ishita@example.com,Startup Basics,89,2026-08-05
